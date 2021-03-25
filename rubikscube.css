@@ -1,0 +1,33 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.box {
+  height: 400px;
+  width: 400px;
+  border: 1px solid black;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+.littleboxblue {
+  height: 100px;
+  width: 100px;
+  background-color: blue;
+  margin: 10px;
+}
+.littleboxred {
+  height: 100px;
+  width: 100px;
+  background-color: red;
+  margin: 10px;
+}
+.littleboxgreen {
+  height: 100px;
+  width: 100px;
+  background-color: green;
+  margin: 10px;
+}
